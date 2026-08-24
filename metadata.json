@@ -1,0 +1,6 @@
+{
+  "name": "The Sneaker Vault",
+  "description": "An immersive digital archive and museum exploring sneaker culture, fashion, identity, design, rarity, and the cultural renaissance of footwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
